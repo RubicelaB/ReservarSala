@@ -274,8 +274,8 @@
       <notifyAuthorityFollowUp>true</notifyAuthorityFollowUp>
       <notifyRequisitionerFollowUp>false</notifyRequisitionerFollowUp>
       <automatic>false</automatic>
-      <positionX>510</positionX>
-      <positionY>210</positionY>
+      <positionX>520</positionX>
+      <positionY>200</positionY>
       <forecastedEffortType>0</forecastedEffortType>
       <forecastedEffort>0</forecastedEffort>
       <notifyManagerFollowUp>false</notifyManagerFollowUp>
@@ -325,7 +325,7 @@
       <notifyRequisitionerFollowUp>false</notifyRequisitionerFollowUp>
       <automatic>false</automatic>
       <positionX>640</positionX>
-      <positionY>220</positionY>
+      <positionY>210</positionY>
       <forecastedEffortType>0</forecastedEffortType>
       <forecastedEffort>0</forecastedEffort>
       <notifyManagerFollowUp>false</notifyManagerFollowUp>
